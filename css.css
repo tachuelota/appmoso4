@@ -243,6 +243,12 @@ border-bottom:none;
 	text-decoration:none;
 	color:#000;
 }
+
+
+.servicios ul li .contentTxt p{
+	padding:0 5px;
+}
+
 .servicios ul li .contentTxt .horos{
 	font-size:16px;
 	line-height:25px;
